@@ -2,6 +2,15 @@
 
 Welcome to your journey with **Playwright**! This guide will help you set up your environment and run your first tests.
 
+# Article 🤓
+
+If you're just getting started with Playwright, check out this helpful article:
+
+👉 [Playwright for Noobs](https://medium.com/@alex_rodriguez_soto/playwright-for-noobs-60d8cce40f31)
+
+This article provides a great introduction and practical insights to help you navigate your journey with Playwright.
+
+
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
@@ -101,5 +110,7 @@ For debugging purposes, run your tests with:
 ```
 npx playwright test --project=chromium --debug
 ```
+
+
 
 ## Happy Testing! 🎉 Feel free to explore further and improve your automation skills with Playwright!
